@@ -197,7 +197,7 @@ ul {
 }
 /* 🌄 Hero Section */
 .hero {
-  background-image: url('../HAZDevs/src/Bg-image.jpeg');
+  background-image: url('src/Bg-image.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
